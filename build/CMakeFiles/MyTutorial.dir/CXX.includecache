@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ekir/git/github/ekir/cmakedemo/src/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

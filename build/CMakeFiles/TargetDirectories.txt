@@ -1,0 +1,3 @@
+/home/ekir/git/github/ekir/cmakedemo/build/CMakeFiles/rebuild_cache.dir
+/home/ekir/git/github/ekir/cmakedemo/build/CMakeFiles/edit_cache.dir
+/home/ekir/git/github/ekir/cmakedemo/build/CMakeFiles/MyTutorial.dir
